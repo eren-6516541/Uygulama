@@ -1,1 +1,3 @@
 # Uygulama
+Veritabanında Tarih type date yapmayı unutmayın...
+Fonksiyonlar class nda veritabanı adını ve server ismini kendi kullandığınız bilgileri yazin
